@@ -4,9 +4,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,341C67,472F5B,C4AEF4,DCCE40&height=220&section=header&text=Hi%20there,%20I'm%20Hamdan%20Azmi!%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <!-- ANIMATED TYPING SVG (AI & MACHINE LEARNING FOCUS) -->
+  <!-- ANIMATED TYPING SVG -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=DCCE40&center=true&vCenter=true&width=520&lines=Machine+Learning+%26+AI+Engineer;NLP+%26+RAG+Systems+Builder;Computer+Vision+(YOLO)+Explorer;Full-Stack+AI+Solutions+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=DCCE40&center=true&vCenter=true&width=550&lines=Machine+Learning+%26+AI+Engineer;NLP+%26+RAG+Systems+Builder;Laravel+(MVC)+%26+Flask+Developer;Computer+Vision+(YOLO)+Explorer" alt="Typing SVG" />
   </p>
 
   <!-- SOCIAL CONTACT BADGES -->
@@ -27,31 +27,32 @@
 
 ---
 
-### 🧠 About Me & Research Focus
+### 🧠 About Me & Engineering Focus
 
 ```javascript
-const researcher = {
+const engineer = {
     name: "Hamdan Azmi (NdanZmie)",
-    role: "Machine Learning & AI Engineer",
-    focusDomains: [
+    role: "Machine Learning Engineer & Web Developer",
+    aiDomains: [
         "Natural Language Processing (NLP)", 
         "Hybrid Recommendation Systems (BM25 + SBERT)",
-        "Retrieval-Augmented Generation (RAG) & LLMs",
-        "Computer Vision & Object Detection (YOLO)"
+        "Retrieval-Augmented Generation (RAG) & Vector Search",
+        "Computer Vision & Object Detection (YOLOv8)"
     ],
-    primaryLanguages: ["Python", "JavaScript", "PHP", "SQL"],
+    backendStrengths: ["Laravel (MVC Architecture)", "Flask (AI/ML Services)", "FastAPI", "PHP", "Node.js"],
+    frontendStack: ["Next.js", "JavaScript (ES6+)", "Tailwind CSS", "Bootstrap"],
     location: "Batam, Indonesia 🇮🇩",
-    mission: "Transforming complex machine learning models into intuitive, production-ready AI applications."
+    mission: "Crafting intelligent machine learning models powered by robust web architecture."
 };
 ```
 
 ---
 
-### 🛠️ Tech Stack & AI Arsenal
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-#### 🤖 Machine Learning, AI & Data Science
+#### 🤖 Machine Learning & AI
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -65,14 +66,14 @@ const researcher = {
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-#### 🌐 Web Engineering & Model Deployment
+#### 🌐 Backend & Web Architecture
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel_(MVC)-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -83,7 +84,7 @@ const researcher = {
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-#### 🧰 Tools & Environments
+#### 🧰 Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
@@ -96,19 +97,19 @@ const researcher = {
 
 ---
 
-### 🏆 Featured AI & Engineering Projects
+### 🏆 Featured Projects & Research
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
         <a href="https://github.com/NdanZmie/NLP-Base-Recommendation-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NdanZmie&repo=NLP-Base-Recommendation-System&theme=radical&hide_border=true&title_color=DCCE40&icon_color=C4AEF4&text_color=ffffff&bg_color=341C67" alt="NLP Recommendation System" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NdanZmie&repo=NLP-Base-Recommendation-System&theme=radical&hide_border=true&title_color=DCCE40&icon_color=C4AEF4&text_color=ffffff&bg_color=341C67" alt="NLP Recommendation System" />
         </a>
       </td>
       <td>
         <a href="https://github.com/NdanZmie/Miawoof-NJS-Ver">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=NdanZmie&repo=Miawoof-NJS-Ver&theme=radical&hide_border=true&title_color=DCCE40&icon_color=C4AEF4&text_color=ffffff&bg_color=341C67" alt="MiaWoof Web App" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NdanZmie&repo=Miawoof-NJS-Ver&theme=radical&hide_border=true&title_color=DCCE40&icon_color=C4AEF4&text_color=ffffff&bg_color=341C67" alt="MiaWoof Web App" />
         </a>
       </td>
     </tr>
@@ -117,16 +118,16 @@ const researcher = {
 
 ---
 
-### 📊 GitHub Analytics & Streak
+### 📊 GitHub Analytics & Activity Streak
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=NdanZmie&show_icons=true&theme=radical&hide_border=true&title_color=DCCE40&icon_color=C4AEF4&text_color=ffffff&bg_color=341C67" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NdanZmie&show_icons=true&theme=radical&hide_border=true&title_color=DCCE40&icon_color=C4AEF4&text_color=ffffff&bg_color=341C67" height="175" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdanZmie&layout=compact&theme=radical&hide_border=true&title_color=DCCE40&text_color=ffffff&bg_color=341C67" height="175" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NdanZmie&layout=compact&theme=radical&hide_border=true&title_color=DCCE40&text_color=ffffff&bg_color=341C67" height="175" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -134,7 +135,7 @@ const researcher = {
   <br>
 
   <!-- GITHUB STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NdanZmie&theme=radical&hide_border=true&stroke=C4AEF4&ring=DCCE40&fire=DCCE40&currStreakNum=ffffff&sideNums=C4AEF4&currStreakLabel=DCCE40&dates=C4AEF4&background=341C67" width="95%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=NdanZmie&theme=radical&hide_border=true&stroke=C4AEF4&ring=DCCE40&fire=DCCE40&currStreakNum=ffffff&sideNums=C4AEF4&currStreakLabel=DCCE40&dates=C4AEF4&background=341C67" width="95%" alt="GitHub Streak" />
 </div>
 
 ---
