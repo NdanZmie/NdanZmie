@@ -14,13 +14,9 @@
     <a href="mailto:hamdanthedk@gmail.com">
       <img src="https://img.shields.io/badge/Email-hamdanthedk%40gmail.com-341C67?style=for-the-badge&logo=gmail&logoColor=DCCE40" alt="Email" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/NdanZmie">
       <img src="https://img.shields.io/badge/GitHub-NdanZmie-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;
-    <a href="https://wa.me/6289665314602">
-      <img src="https://img.shields.io/badge/WhatsApp-089665314602-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 </div>
@@ -108,8 +104,8 @@ const engineer = {
         </a>
       </td>
       <td>
-        <a href="https://github.com/NdanZmie/Miawoof-NJS-Ver">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NdanZmie&repo=Miawoof-NJS-Ver&theme=radical&hide_border=true&title_color=DCCE40&icon_color=C4AEF4&text_color=ffffff&bg_color=341C67" alt="MiaWoof Web App" />
+        <a href="https://github.com/NdanZmie/ManiesCakery_PBL2">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NdanZmie&repo=ManiesCakery_PBL2&theme=radical&hide_border=true&title_color=DCCE40&icon_color=C4AEF4&text_color=ffffff&bg_color=341C67" alt="ManiesCakery PBL2" />
         </a>
       </td>
     </tr>
