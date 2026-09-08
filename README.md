@@ -21,43 +21,51 @@
       <img src="https://img.shields.io/badge/GitHub-NdanZmie-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/">
+    <a href="https://www.linkedin.com/in/hamdan-azmi-2b3400182/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://hamdanazmi.vercel.app/#contact">
+      <img src="https://img.shields.io/badge/Portfolio-hamdanazmi.vercel.app-DCCE40?style=for-the-badge&logo=vercel&logoColor=341C67" alt="Portfolio" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🚀 Terminal Profile `[ndanzmie@ai-core ~]$`
+### 🚀 `[ndanzmie@ai-core ~]$` About Me
 
-```javascript
-/**
- * @profile Hamdan Azmi (NdanZmie)
- * @status Engineering intelligent AI systems & full-stack web solutions
- */
-const NdanZmie = {
-    identity: {
-        name: "Hamdan Azmi",
-        role: "Machine Learning Engineer & Web Architect",
-        location: "Batam, Indonesia 🇮🇩",
-        status: "Exploring cutting-edge NLP, RAG, and Computer Vision"
-    },
-    aiSpecializations: [
-        "Natural Language Processing (NLP)",
-        "Hybrid Recommendation Engines (BM25 + SBERT)",
-        "Retrieval-Augmented Generation (RAG) & Vector Search",
-        "Computer Vision & Object Detection (YOLOv8 & OpenCV)"
-    ],
-    engineeringArsenal: {
-        backend: ["Laravel (MVC)", "Flask", "FastAPI", "PHP", "Node.js"],
-        frontend: ["Next.js", "JavaScript (ES6+)", "Tailwind CSS", "Bootstrap"],
-        databases: ["MySQL", "PostgreSQL", "ChromaDB", "FAISS Vector Store"],
-        tools: ["PyTorch", "TensorFlow", "Scikit-Learn", "Hugging Face", "Git", "VS Code"]
-    },
-    philosophy: "Turning complex mathematical models into clean, high-performance web products."
-};
-```
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+
+**🧑‍💻 Identity**
+- **Name:** Hamdan Azmi
+- **Role:** Machine Learning Engineer & Web Architect
+- **Location:** Batam, Indonesia 🇮🇩
+- **Focus:** Exploring cutting-edge NLP, RAG, and Computer Vision
+
+**🧠 AI Specializations**
+- Natural Language Processing (NLP)
+- Hybrid Recommendation Engines (BM25 + SBERT)
+- Retrieval-Augmented Generation (RAG) & Vector Search
+- Computer Vision & Object Detection (YOLOv8 & OpenCV)
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Engineering Arsenal**
+- **Backend:** Laravel (MVC) · Flask · FastAPI · PHP · Node.js
+- **Frontend:** Next.js · JavaScript (ES6+) · Tailwind CSS · Bootstrap
+- **Databases:** MySQL · PostgreSQL · ChromaDB · FAISS Vector Store
+- **Tools:** PyTorch · TensorFlow · Scikit-Learn · Hugging Face · Git · VS Code
+
+**💭 Philosophy**
+> *"Turning complex mathematical models into clean, high-performance web products."*
+
+</td>
+</tr>
+</table>
 
 ---
 
