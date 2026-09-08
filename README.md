@@ -2,7 +2,7 @@
 <!--        CYBERPUNK NEON WAVE HEADER BANNER & ANIMATION     -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,341C67,472F5B,C4AEF4,DCCE40&height=230&section=header&text=Hamdan%20Azmi%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:341C67,35:472F5B,70:C4AEF4,100:DCCE40&height=230&section=header&text=Hamdan%20Azmi%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
 
   <!-- DYNAMIC TYPING SVG -->
   <p align="center">
@@ -19,6 +19,10 @@
     &nbsp;&nbsp;
     <a href="https://github.com/NdanZmie">
       <img src="https://img.shields.io/badge/GitHub-NdanZmie-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>
@@ -66,14 +70,14 @@ const NdanZmie = {
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv&theme=dark" height="48" alt="AI & ML Stack" />
 </a>
 
-<br>
+<br><br>
 
 #### 🌐 Backend, APIs & Web Architecture
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=laravel,php,flask,fastapi,js,nextjs,tailwind,bootstrap&theme=dark" height="48" alt="Web & Backend Stack" />
 </a>
 
-<br>
+<br><br>
 
 #### 🗄️ Database, Vector Storage & Workflow Tools
 <a href="https://skillicons.dev">
@@ -123,6 +127,11 @@ const NdanZmie = {
 
   <!-- ANIMATED STREAK STATS -->
   <img src="https://streak-stats.demolab.com/?user=NdanZmie&theme=radical&hide_border=true&stroke=C4AEF4&ring=DCCE40&fire=DCCE40&currStreakNum=ffffff&sideNums=C4AEF4&currStreakLabel=DCCE40&dates=C4AEF4&background=341C67" width="95%" alt="GitHub Streak" />
+
+  <br><br>
+
+  <!-- GITHUB TROPHIES -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NdanZmie&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -131,8 +140,8 @@ const NdanZmie = {
 <!--                   FOOTER ANIMATION WAVE                  -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,DCCE40,C4AEF4,472F5B,341C67&height=120&section=footer" width="100%" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCCE40,35:C4AEF4,70:472F5B,100:341C67&height=120&section=footer" width="100%" />
+
   <p align="center">
     <i>⚡ Transforming Data & Intelligent Models into Scalable Reality • <b>Hamdan Azmi</b> ⚡</i>
   </p>
